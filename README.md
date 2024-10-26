@@ -5,37 +5,38 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviansalman" alt="raviansalman" /></a> </p>
 
-👋 Hello, I'm Salman Haider
+# 👋 Hello, I'm Salman Haider
 
-🚀 Innovative Web 3.0 Pioneer | Blockchain Architect | Smart Contract Engineer | Engineering Leader
+🚀 **Innovative Web 3.0 Pioneer** | **Blockchain Architect** | **Smart Contract Engineer** | **Engineering Leader**
 
 With over a decade in software development, including 6 years as a specialist in blockchain, I bring deep expertise in designing and deploying secure, scalable Web 2.0 and Web 3.0 solutions. I’ve led diverse blockchain initiatives across DeFi, NFTs, cross-chain, and decentralized applications, building and architecting complex systems for industry leaders.
 
-🔧 Core Specializations:
+## 🔧 Core Specializations
+- **Blockchain Technologies**: Ethereum, BSC, Polygon, Arbitrum, LayerZero, Chainlink, and beyond
+- **Smart Contracts**: Solidity, Rust, GoLang; deployed cross-chain bridges, staking, token swaps, and reward distribution
+- **Web & Blockchain Integration**: Full-stack development using React, Node.js, and Web3.js
+- **System Architecture**: Designed microservices and modular architectures for high-performance blockchain solutions
+- **Leadership**: Directed technical recruitment and mentorship, fostering high-performing teams in emerging tech
 
-* Blockchain Technologies: Ethereum, BSC, Polygon, Arbitrum, LayerZero, Chainlink, and beyond
-* Smart Contracts: Solidity, Rust, GoLang; deployed cross-chain bridges, staking, token swaps, and reward distribution
-* Web & Blockchain Integration: Full-stack development using React, Node.js, and Web3.js
-* System Architecture: Designed microservices and modular architectures for high-performance blockchain solutions
-* Leadership: Directed technical recruitment and mentorship, fostering high-performing teams in emerging tech
+## 🏆 Key Projects
+- **MultiSwap**: Developed a seamless cross-network token swapping platform using LayerZero and Stargate
+- **ScarSpeed**: Architected and led the development of a 3D NFT-based game on XRP and Ethereum
+- **WayGate**: Launched Ethereum-based NFT marketplace with 3D asset support
+- **Loobr (MetaRuffy)**: NFT marketplace with social features, achieving millions in sales and recognition as an innovative cryptocurrency
 
-🏆 Key Projects:
+## 🎓 Education
+- **MS Computer Science (MSCS)** from Government College University, Lahore  
+- **MCS** from Virtual University of Pakistan  
 
-* MultiSwap: Developed a seamless cross-network token swapping platform using LayerZero and Stargate
-* ScarSpeed: Architected and led the development of a 3D NFT-based game on XRP and Ethereum
-* WayGate: Launched Ethereum-based NFT marketplace with 3D asset support
-* Loobr (MetaRuffy): NFT marketplace with social features, achieving millions in sales and recognition as an innovative cryptocurrency
+## 🎓 Certifications
+- Agile Project Management (Google)
+- IBM Certified Blockchain Developer
+- Blockchain Specialization (University of Buffalo)
 
-🎓 Education:
-
-* MS Computer Science (MSCS) from Government College University, Lahore
-* MCS from Virtual University of Pakistan
-
-🎓 Certifications:
-
-* Agile Project Management (Google)
-* IBM Certified Blockchain Developer
-* Blockchain Specialization (University of Buffalo)
+## 📬 Let's Connect
+- **Email**: [ravian.salman@hotmail.com](mailto:ravian.salman@hotmail.com)
+- **LinkedIn**: [linkedin.com/in/raviansalman](https://linkedin.com/in/raviansalman)
+- **GitHub**: [github.com/raviansalman](https://github.com/raviansalman)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

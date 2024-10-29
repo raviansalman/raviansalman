@@ -18,7 +18,7 @@ With over a decade in software development, including 6 years as a specialist in
 - **System Architecture**: Designed microservices and modular architectures for high-performance blockchain solutions
 - **Leadership**: Directed technical recruitment and mentorship, fostering high-performing teams in emerging tech
 
-  ✅ Blockchain Development
+✅ Blockchain Development
 * Over 10 years of software development experience, with 5+ years focused on blockchain and DeFi
 * Architected MultiSwap, a cross-chain bridge facilitating $150M+ in swaps via Stargate, Circle CCTP, 1inch, Uniswap v2, v3, Omnichain liquidity and Chainlink integrations. 
 * Developed the UAE’s largest blockchain anti-fraud solution for 13+ banks, safeguarding millions in transactions

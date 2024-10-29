@@ -18,6 +18,23 @@ With over a decade in software development, including 6 years as a specialist in
 - **System Architecture**: Designed microservices and modular architectures for high-performance blockchain solutions
 - **Leadership**: Directed technical recruitment and mentorship, fostering high-performing teams in emerging tech
 
+  ✅ Blockchain Development
+* Over 10 years of software development experience, with 5+ years focused on blockchain and DeFi
+* Architected MultiSwap, a cross-chain bridge facilitating $150M+ in swaps via Stargate, Circle CCTP, 1inch, Uniswap v2, v3, Omnichain liquidity and Chainlink integrations. 
+* Developed the UAE’s largest blockchain anti-fraud solution for 13+ banks, safeguarding millions in transactions
+* Developed stablecoin collateral systems for optimized minting, inspired by Balancer and MakerDAO
+
+✅ Mulichain Expertise ( Layer 1 / Layer 2) 
+* Proficient in Ethereum, BSC, Polygon, Optimism, Solana, Base, Arbitrum, Avalanche, IoTeX, Cudos, Casper, Algorand, POKT and Cosmos SDK
+
+✅ NFT Based Solutions
+* Delivered 10+ NFT marketplaces (ERC721, ERC1155), including CRE Real Estate, 3D NFTs, RWA and multi chain / cross-chain supported platforms
+* Specialized in NFT lifecycle management and Play 2 Earn game development
+
+✅ DeFi Expertise
+* Developed Cross chain Bridges, enhancing liquidity through DEX, AMM, and aggregator integrations
+* Built DeFi platforms achieving $20M TVL and secured $200M+ in assets through audits; skilled in Uniswap, Sushiswap, Aave, Compound, MakerDAO, Balancer, Curve, and Yearn.finance; experienced in staking, vesting, farming, airdrops, orderbooks, relayers, and oracles
+
 ## 🏆 Key Projects
 - **MultiSwap**: Developed a seamless cross-network token swapping platform using LayerZero and Stargate
 - **ScarSpeed**: Architected and led the development of a 3D NFT-based game on XRP and Ethereum
